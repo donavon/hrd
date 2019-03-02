@@ -1,7 +1,7 @@
 {
   "name": "hrd",
-  "version": "1.0.1",
-  "description": "An npx utility to make it easy to hoard an npm name.",
+  "version": "1.0.2",
+  "description": "An npx utility to make it easy to hoard/reserve an npm name.",
   "author": "donavon",
   "license": "MIT",
   "repository": {
