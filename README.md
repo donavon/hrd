@@ -12,8 +12,8 @@ Do you hoard a lot of npm packages? Tired of doing it manually? Well no more.
 $ npx hrd npm-name-to-take
 ```
 
-That's it! It will create a temporary folder, run `npm init -y` in that folder, then
-run `npm publish`.
+That's it! It will create a temporary folder, run `npm init -y` in that folder, then automatically
+run `npm publish` for you.
 
 ## Defaults
 
